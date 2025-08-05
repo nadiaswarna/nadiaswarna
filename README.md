@@ -11,7 +11,7 @@
 - Tools: Git, JIRA, Cypress (learning)
 
 📧 nadiaswarna01@gmail.com 
-linkedin.com/in/nadiaswarna
+
 
 
 
