@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Nadia Sultana Swarna
 
-<!--
-**nadiaswarna/nadiaswarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Graduate from AIUB  
+🧪 Manual & API Testing | Learning Automation  
+📍 Dhaka, Bangladesh
 
-Here are some ideas to get you started:
+🧪 Skills
+- Manual Testing | API Testing (Postman, Newman)  
+- Test Case Writing | Bug Reporting | Test Execution  
+- JavaScript, HTML, CSS | MySQL  
+- Tools: Git, JIRA, Cypress (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 nadiaswarna01@gmail.com 
+
+
+
